@@ -1,1 +1,1 @@
-A new 0x03-git READ.me message
+A newly updated message as instructed
